@@ -6,6 +6,10 @@ Welcome to **My Wallet**, a modern full-stack expense tracking application built
 
 This project is inspired by a real-world problem I personally encountered while managing the budget for a Satyanarayan Puja in my chawl. I realized how hard it is to track shared expenses when multiple people contribute, spend, and manage temporary balances. From this experience, I came up with the idea to build a collaborative expense tracker app that goes far beyond basic personal finance tools.
 
+
+🧠 **Coded with industry best practices** using React Native — followed **modular folder structures**, **well-organized reusable components**, and **clean, scalable architecture** for long-term maintainability and collaboration.
+
+
 ## Table of Contents
 
 | Section                                            | Description                           |
