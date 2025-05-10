@@ -87,38 +87,53 @@ And so, **My Wallet** was born.
 
 ## Screen Preview 🖥️
 
-### Onboarding & Authentication 🚀
+<div style="display: flex; flex-direction: row;">
 
-<img src='https://your-github.com/screenshots/login1.png' width='300' height='600' />
-<img src='https://your-github.com/screenshots/login2.png' width='300' height='600' />
+<img src="./screenshots/images/splash%20screen.jpg" width=30%>
+<img src="./screenshots/images/login%20screen.jpg" width=30%>
 
-### Wallet Overview 💼
+<img src="./screenshots/images/my%20wallet%201.jpg" width=30%>
+<img src="/screenshots/images/Loading%20skeleton%201.png" width=30% />
+<img src="./screenshots/images/my%20wallet%202.jpg" width=30%>
+<img src="./screenshots/images/Add%20wallet.jpg" width=30%>
+<img src="./screenshots/images/Edit%20wallet%20form.jpg" width=30%>
+<img src="./screenshots/images/Validation%20errors.jpg" width=30%>
 
-<img src='https://your-github.com/screenshots/wallet-overview.png' width='300' height='600' />
+<img src="./screenshots/images/Transaction%20loading%20skeleton.jpg" width=30%>
+<img src="./screenshots/images/Transactions%20table%202.jpg" width=30%>
+<img src="./screenshots/images/Add%20transaction%201.jpg" width=30%>
+<img src="./screenshots/images/Add%20transaction%202.jpg" width=30%>
+<img src="./screenshots/images/Edit%20transaction.jpg" width=30%>
 
-### Add/Edit Transaction 💵
-
-<img src='https://your-github.com/screenshots/add-transaction.png' width='300' height='600' />
-
-### View Summaries 📈
-
-<img src='https://your-github.com/screenshots/summary.png' width='300' height='600' />
-
-## Demo Video 🎬
-
-
-
-<div style="display: flex; flex-direction: 'row';">
-<img src="https://github.com/Aniruddha-Gade/My_Wallet_Smart_Expense_Tracker_App/blob/main/screenshots/videos/My%20Wallets%201%20vid.mp4" width=30%>
-<img src="./screenshots/comment.gif" width=30%>
-<img src="./screenshots/search.gif" width=30%>
-<img src="./screenshots/post.gif" width=30%>
-<img src="./screenshots/profile.gif" width=30%>
-<img src="./screenshots/imagezoom.gif" width=30%>
+<img src="./screenshots/images/profile%20screen.jpg" width=30%>
+<img src="./screenshots/images/edit%20profile.jpg" width=30%>
 
 </div>
 
-▶️ [Click to Watch Full App Demo](https://www.youtube.com/watch?v=your-demo-link)
+
+<hr/>
+
+
+## Demo Video 🎬
+
+<div style="display: flex; flex-direction: 'row';">
+   <img src="/screenshots/videos/My%20Wallets%20gif%201.gif" width=30%>
+   <img src="/screenshots/videos/Loading%20skeleton%20gif.gif" width=30%>
+   <img src="./screenshots/videos/Add%20Wallet%20gif.gif" width=30%>
+   <img src="./screenshots/videos/Update%20Wallet%20gif.gif" width=30%>
+
+  <img src="./screenshots/videos/Transaction%20list%20gif.gif" width=30%>
+  <img src="./screenshots/videos/Add%20Transaction%20gif.gif" width=30%>
+  <img src="./screenshots/videos/Update%20Transaction%20gif.gif" width=30%>
+ 
+  <img src="./screenshots/videos/Edit%20profile%20gif.gif" width=30%>
+  <img src="/screenshots/videos/Loading%20skeleton%20gif%202.gif" width=30%>
+ 
+  <img src="./screenshots/videos/Profile%20gif.gif" width=30%> 
+  <img src="/screenshots/videos/logout%20gif.gif" width=30%>
+
+</div>
+
 
 ---
 
