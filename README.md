@@ -106,6 +106,18 @@ And so, **My Wallet** was born.
 
 ## Demo Video 🎬
 
+
+
+<div style="display: flex; flex-direction: 'row';">
+<img src="https://github.com/Aniruddha-Gade/My_Wallet_Smart_Expense_Tracker_App/blob/main/screenshots/videos/My%20Wallets%201%20vid.mp4" width=30%>
+<img src="./screenshots/comment.gif" width=30%>
+<img src="./screenshots/search.gif" width=30%>
+<img src="./screenshots/post.gif" width=30%>
+<img src="./screenshots/profile.gif" width=30%>
+<img src="./screenshots/imagezoom.gif" width=30%>
+
+</div>
+
 ▶️ [Click to Watch Full App Demo](https://www.youtube.com/watch?v=your-demo-link)
 
 ---
