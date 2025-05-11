@@ -32,14 +32,12 @@ This project is inspired by a real-world problem I personally encountered while 
 * 🛢️ **Store data** securely using MongoDB, managed via a Node/Express backend
 * 🌄 **Host and preview wallet cover images** using Cloudinary
 * 📁 **Export wallet data** to **PDF and Excel** for easy reporting and sharing
-* 💎 **Premium Wallet Cards** – Users can create up to **3 wallets for free**. To unlock more wallets, users can **purchase premium wallets** as per their needs.
-* 🧠 AI-generated wallet cover images from prompt
-* 📤 **Share** wallets with read/write **access**
+
 
 Coming soon:
 
 * 🔄 Share wallets with friends/family with **read/write** permissions
-* 🤖 Generate AI-based wallet images based on text prompts
+* 🧠 Generate AI-based wallet images based on text prompts
 * 💎 **Premium Wallet Cards** – Users can create up to **3 wallets for free**. To unlock more wallets, users can **purchase premium wallets** as per their needs.
 
 
@@ -64,10 +62,10 @@ Coming soon:
 * 💰 Add debit/credit transactions with name, date, type, and amount
 * 📊 View total income, total expenses, and remaining balance per wallet
 * 💾 Cloud image upload for wallet thumbnails
-* 📤 Coming soon: Share wallets with read/write access
-* 🧠 Coming soon: AI-generated wallet cover images from prompt
-* 📁 Coming soon: **Export wallet data** to **PDF and Excel** for easy reporting and sharing
-* 💎 Coming soon: **Premium Wallet Cards** – Users can create up to **3 wallets for free**. To unlock more wallets, users can **purchase premium wallets** as per their needs.
+* 📤 Share wallets with read/write access (Coming soon)
+* 🧠 AI-generated wallet cover images from prompt (Coming soon)
+* 📁 **Export wallet data** to **PDF and Excel** for easy reporting and sharing (Coming soon)
+* 💎 **Premium Wallet Cards** – Users can create up to **3 wallets for free**. To unlock more wallets, users can **purchase premium wallets** as per their needs. (Coming soon)
   
 ## Problem Solving Origin 💡
 
