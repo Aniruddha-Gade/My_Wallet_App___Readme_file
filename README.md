@@ -50,9 +50,10 @@ Coming soon:
 | <img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/react%20ogo.png"> | React Native                 |
 | <img height="40" src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s">                   | Expo                         |
 | <img height="40" src="https://clerk.com/_next/image?url=%2Fimages%2Fclerk-logomark-square.svg&w=2048&q=75">                                         | Clerk (Google & Apple OAuth) |
-| <img height="40" src="https://nodejs.org/static/images/logo.svg">                                                                                   | Node.js & Express.js         |
+| <img height="20" src="https://nodejs.org/static/images/logo.svg">                                                                                   | Node.js & Express.js         |
 | <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png">                                                           | MongoDB                      |
 | <img height="40" src="https://yt3.googleusercontent.com/wgfGCUUb1Rym8LAwvXuzHqfSpbByVs_11uhzj6Xw8rEFurIWxspBlIqU_2IRswKz947D3-yV=s900-c-k-c0x00ffffff-no-rj">               | Cloudinary                   |
+| <img height="40" src="https://static-00.iconduck.com/assets.00/formik-icon-512x512-se1fegy1.png">               | Formik                  |
 
 <hr/>
 
