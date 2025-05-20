@@ -32,7 +32,7 @@ This project is inspired by a real-world problem I personally encountered while 
 * 🛢️ **Store data** securely using MongoDB, managed via a Node/Express backend
 * 🌄 **Host and preview wallet cover images** using Cloudinary
 * 📁 **Export wallet data** to **PDF and Excel** for easy reporting and sharing
-
+* ⏳ **Auto-lock** the app after 3 minutes of inactivity to enhance security
 
 Coming soon:
 
@@ -63,6 +63,7 @@ Coming soon:
 * 📊 View total income, total expenses, and remaining balance per wallet
 * 💾 Cloud image upload for wallet thumbnails
 * 📁 **Export wallet data** to **PDF and Excel** for easy reporting and sharing
+* ⏳ **Auto-lock** the app after 3 minutes of inactivity to enhance security
 * 📤 Share wallets with read/write access (Coming soon)
 * 🧠 AI-generated wallet cover images from prompt (Coming soon)
 * 💎 **Premium Wallet Cards** – Users can create up to **3 wallets for free**. To unlock more wallets, users can **purchase premium wallets** as per their needs. (Coming soon)
