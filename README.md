@@ -85,7 +85,10 @@ And so, **My Wallet** was born.
 
 <hr/>
 
+
+
 ## Screen Preview 🖥️
+
 
 <div style="display: flex; flex-direction: row;">
 
